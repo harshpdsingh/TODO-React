@@ -52,7 +52,3 @@ npm run build
 - Tailwind CSS
 - React Icons
 - UUID
-
-## 📝 License
-
-MIT License - feel free to use this project for learning and development.
