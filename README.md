@@ -12,7 +12,7 @@ A modern, responsive todo application built with React and Vite. Manage your tas
 
 ## 🌐 Live Demo
 
-[View Live Application](https://your-app-name.vercel.app)
+[View Live Application](https://todo-react-rho-inky.vercel.app/)
 
 ## 🛠️ Local Development
 
