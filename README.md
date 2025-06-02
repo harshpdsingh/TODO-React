@@ -24,7 +24,7 @@ A modern, responsive todo application built with React and Vite. Manage your tas
 
 1. Clone the repository
 ```bash
-git clone (https://github.com/harshpdsingh/TODO-React.git)
+git clone https://github.com/harshpdsingh/TODO-React.git
 cd taskup
 ```
 
